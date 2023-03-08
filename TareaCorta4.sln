@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaCorta4", "TareaCorta4\TareaCorta4.csproj", "{5C7F153E-1F78-4C26-86B6-6B96AB6D963F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaCorta4API.DataAccess", "TareaCorta4API.DataAccess\TareaCorta4API.DataAccess.csproj", "{72FDA7D9-9DBE-4C03-905B-59BB3F16BEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C7F153E-1F78-4C26-86B6-6B96AB6D963F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7F153E-1F78-4C26-86B6-6B96AB6D963F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7F153E-1F78-4C26-86B6-6B96AB6D963F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7F153E-1F78-4C26-86B6-6B96AB6D963F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72FDA7D9-9DBE-4C03-905B-59BB3F16BEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FDA7D9-9DBE-4C03-905B-59BB3F16BEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FDA7D9-9DBE-4C03-905B-59BB3F16BEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FDA7D9-9DBE-4C03-905B-59BB3F16BEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBBB999C-BD81-40F0-9537-E20827A481AD}
+	EndGlobalSection
+EndGlobal

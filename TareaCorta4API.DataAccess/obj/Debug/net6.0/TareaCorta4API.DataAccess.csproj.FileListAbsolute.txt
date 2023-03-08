@@ -1,0 +1,14 @@
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\bin\Debug\net6.0\TareaCorta4API.DataAccess.deps.json
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\bin\Debug\net6.0\TareaCorta4API.DataAccess.runtimeconfig.json
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\bin\Debug\net6.0\TareaCorta4API.DataAccess.dll
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\bin\Debug\net6.0\TareaCorta4API.DataAccess.pdb
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\TareaCorta4API.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\TareaCorta4API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\TareaCorta4API.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\TareaCorta4API.DataAccess.AssemblyInfo.cs
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\TareaCorta4API.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\TareaCorta4API.DataAccess.dll
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\refint\TareaCorta4API.DataAccess.dll
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\TareaCorta4API.DataAccess.pdb
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\TareaCorta4API.DataAccess.genruntimeconfig.cache
+C:\Users\Daiber CB\Desktop\TareaCorta4\TareaCorta4API.DataAccess\obj\Debug\net6.0\ref\TareaCorta4API.DataAccess.dll
