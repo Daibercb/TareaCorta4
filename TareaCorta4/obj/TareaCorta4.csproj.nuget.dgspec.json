@@ -49,6 +49,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.3, )"
+            },
+            "MiniValidation": {
+              "target": "Package",
+              "version": "[0.7.2, )"
             }
           },
           "imports": [
@@ -120,6 +124,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.3, )"
+            },
+            "MiniValidation": {
+              "target": "Package",
+              "version": "[0.7.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

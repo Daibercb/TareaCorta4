@@ -1,0 +1,12 @@
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\bin\Debug\net6.0\API.Datos.deps.json
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\bin\Debug\net6.0\API.Datos.dll
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\bin\Debug\net6.0\API.Datos.pdb
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\API.Datos.csproj.AssemblyReference.cache
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\API.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\API.Datos.AssemblyInfoInputs.cache
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\API.Datos.AssemblyInfo.cs
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\API.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\API.Datos.dll
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\refint\API.Datos.dll
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\API.Datos.pdb
+C:\Users\Daiber CB\Desktop\TareaCorta4\API.Datos\obj\Debug\net6.0\ref\API.Datos.dll

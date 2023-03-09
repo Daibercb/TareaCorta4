@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1hc1kGw1ZFZwxyp1phgzDTbOSqN1DyI6RV5T2CkDP+AaLURilAHPgFaJ9Py4FdJECRCi/jlVW/gKIJ8jXHVsCg==",
+  "dgSpecHash": "TjD667TC/EIGYwFYjr1El/7ZsDzvPhfEMNRhQuhqkK2pR4dGV2nyqZYLJINsZ7SOx2lUn1PQHnVeOPDX8t+C6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daiber CB\\Desktop\\TareaCorta4\\TareaCorta4API.DataAccess\\TareaCorta4API.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\Daiber CB\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Daiber CB\\.nuget\\packages\\minivalidation\\0.7.2\\minivalidation.0.7.2.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",

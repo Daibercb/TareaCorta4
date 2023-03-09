@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaCorta4", "TareaCorta4\TareaCorta4.csproj", "{5C7F153E-1F78-4C26-86B6-6B96AB6D963F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TareaCorta4", "TareaCorta4\TareaCorta4.csproj", "{5C7F153E-1F78-4C26-86B6-6B96AB6D963F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaCorta4API.DataAccess", "TareaCorta4API.DataAccess\TareaCorta4API.DataAccess.csproj", "{72FDA7D9-9DBE-4C03-905B-59BB3F16BEFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TareaCorta4API.DataAccess", "TareaCorta4API.DataAccess\TareaCorta4API.DataAccess.csproj", "{72FDA7D9-9DBE-4C03-905B-59BB3F16BEFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4N6UhOUyZT16aoUHmQ5lSeVHUwtOVyMXAPTan1I2mX1NkCNZGiAkQqr4azjbUrxi8TdM5YluuGStBSVr006MDg==",
+  "dgSpecHash": "AumY1PUh+jEYUZkEn56aicDygXpho1dyW22l6u3Qpu4/QMchF03fOk48wE/w5aUQLHtFXptLEc53UCJqqvbkDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Daiber CB\\Desktop\\TareaCorta4\\TareaCorta4\\TareaCorta4.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "C:\\Users\\Daiber CB\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Daiber CB\\.nuget\\packages\\minivalidation\\0.7.2\\minivalidation.0.7.2.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Daiber CB\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
